@@ -1,0 +1,9 @@
+﻿  ShaderCompileFromFile.cpp
+d:\microlight\shadercompilefromfile\shadercompilefromfile.cpp(540): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+d:\microlight\shadercompilefromfile\shadercompilefromfile.cpp(541): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+d:\microlight\shadercompilefromfile\shadercompilefromfile.cpp(575): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\microlight\shadercompilefromfile\shadercompilefromfile.cpp(619): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+d:\microlight\shadercompilefromfile\shadercompilefromfile.cpp(510): warning C4101: “polygonLayout”: 未引用的局部变量
+d:\microlight\shadercompilefromfile\shadercompilefromfile.cpp(512): warning C4101: “matrixBufferDesc”: 未引用的局部变量
+d:\microlight\shadercompilefromfile\shadercompilefromfile.cpp(511): warning C4101: “numElements”: 未引用的局部变量
+  ShaderCompileFromFile.vcxproj -> D:\MicroLight\x64\Debug\ShaderCompileFromFile.exe
